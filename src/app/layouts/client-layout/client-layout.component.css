@@ -1,0 +1,21 @@
+.header{
+    height: 70px;
+    background-color: bisque;
+}
+.container{
+    display: flex;
+}
+.container .main-content{
+    width: 80%;
+    background-color: cornsilk;
+    min-height: 600px;
+}
+.container .aside{
+    width: 20%;
+    background-color: cyan;
+    min-height: 600px;
+}
+footer{
+    height: 150px;
+    background-color: darkgray;
+}
